@@ -2,6 +2,8 @@
 
 Projeto acadêmico da disciplina **GAC129 — Prototipação de Sistemas Embarcados**, turma **70A**, semestre **2026/2**, da Universidade Federal de Lavras (UFLA).
 
+**Estado atual:** documentação e planejamento. O arquivo `init.py` é um exemplo de Hello World; servidor, clientes e armazenamento ainda não foram implementados.
+
 ## 1. Visão geral
 
 O projeto consiste em uma aplicação cliente-servidor na qual **dois clientes independentes** se comunicam com **um servidor central** para cadastrar, consultar e atualizar tarefas. Os dados são mantidos pelo servidor e compartilhados entre os clientes.
@@ -296,3 +298,7 @@ O projeto estará pronto para demonstração quando os dois clientes puderem, a 
 ---
 
 **Estado do projeto:** documentação inicial — implementação pendente.
+
+## Rastreabilidade dos documentos acadêmicos
+
+O enunciado e o plano de ensino citados orientam os requisitos e o cronograma acima. Esses documentos não estão anexados ao repositório nesta etapa. A equipe deve confirmar os prazos na fonte oficial e, quando permitido, incluir os arquivos ou links para consulta.
