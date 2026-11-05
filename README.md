@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema Distribuído de Gerenciamento de Tarefas
 
 Projeto acadêmico da disciplina **GAC129 — Prototipação de Sistemas Embarcados**, turma **70A**, semestre **2026/2**, da Universidade Federal de Lavras (UFLA).
@@ -302,3 +303,10 @@ O projeto estará pronto para demonstração quando os dois clientes puderem, a 
 ## Rastreabilidade dos documentos acadêmicos
 
 O enunciado e o plano de ensino citados orientam os requisitos e o cronograma acima. Esses documentos não estão anexados ao repositório nesta etapa. A equipe deve confirmar os prazos na fonte oficial e, quando permitido, incluir os arquivos ou links para consulta.
+=======
+# Sistema Distribuído de Gerenciamento de Tarefas
+
+Projeto acadêmico desenvolvido em Java puro, utilizando arquitetura cliente-servidor e comunicação TCP.
+
+Consulte a pasta docs/ para informações complementares.
+>>>>>>> 811ce58 (docs: atualiza documentação para Java e cria estrutura de pastas)
